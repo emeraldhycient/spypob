@@ -1,0 +1,11 @@
+nav {
+    background-color: #2a313e;
+    border-bottom: 1px solid #0d181d;
+}
+
+footer {
+    height: 70vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
